@@ -1,0 +1,27 @@
+{
+  "name": "eventloop-assignment",
+  "version": "1.0.0",
+  "description": "my first json package with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vani-gold/eventloop-assignment.git"
+  },
+  "keywords": [
+    "vanigold-evenloop"
+  ],
+  "author": "esibe vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vani-gold/eventloop-assignment/issues"
+  },
+  "homepage": "https://github.com/vani-gold/eventloop-assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
